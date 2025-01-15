@@ -21,8 +21,8 @@ NnsProposal:
 
     ## The SNS will be initialized with the following parameters:
     * NFIDW total supply at genesis: 2_134_120_313.538 NFIDW 
-    * ICP to raise min: 350_000 ICP
-    * ICP to raise max: 500_000 ICP (Without NF)
+    * ICP to raise min: 100_000 ICP
+    * ICP to raise max: 150_000 ICP (Without NF)
     * Min number of tokens per contributor: 10 ICP
     * Max number of tokens per contributor: 100_000 ICP
     * Min number of participants: 100
@@ -492,8 +492,8 @@ Distribution:
 
 Swap:
   minimum_participants: 100
-  minimum_direct_participation_icp: 350_000 tokens
-  maximum_direct_participation_icp: 500_000 tokens
+  minimum_direct_participation_icp: 100_000 tokens
+  maximum_direct_participation_icp: 150_000 tokens
   minimum_participant_icp: 10 tokens
   maximum_participant_icp: 100_000 tokens
   confirmation_text:
