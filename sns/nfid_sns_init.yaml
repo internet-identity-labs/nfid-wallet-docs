@@ -527,6 +527,6 @@ Swap:
     events: 6
     interval: 2 month
 
-  start_time: 16:30 UTC
+  start_time: 14:00 UTC
   duration: 14 days
   neurons_fund_participation: true
