@@ -496,7 +496,8 @@ Swap:
   maximum_direct_participation_icp: 350_000 tokens
   minimum_participant_icp: 10 tokens
   maximum_participant_icp: 100_000 tokens
-  confirmation_text:
+  confirmation_text: |
+    I confirm my understanding of the responsibilities and risks associated with participating in this token swap.
 
   restricted_countries:
     - AF # AFGHANISTAN
